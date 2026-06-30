@@ -18,7 +18,7 @@
 ---
 
 ### About Me?
-I'm a Computer Science sophomore at UP Cebu who spends most of my time building things. Outside of projects, you'll find me crossing off movies on my watchlist, road-tripping with Tamino adn Steve Lacy on the aux, and mastering the art of procrastination. Coding is just another language for stubbornness — a way of saying "I will make this work" until it does. I build things that are unfinished, imperfect, and mine, because the ones worth keeping are usually a little broken before they're good. Somewhere between the bugs and the breakthroughs, that's where I actually become whoever I'm building. *charot yux*
+I'm a Computer Science sophomore at UP Cebu who spends most of my time building things. Outside of projects, you'll find me crossing off movies on my watchlist, road-tripping with Tamino and Steve Lacy on the aux, and mastering the art of procrastination. Coding is just another language for stubbornness — a way of saying "I will make this work" until it does. I build things that are unfinished, imperfect, and mine, because the ones worth keeping are usually a little broken before they're good. Somewhere between the bugs and the breakthroughs, that's where I actually become whoever I'm building. *charot yux*
 
 > *"Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness."*
 > — *A Song of Ice and Fire*

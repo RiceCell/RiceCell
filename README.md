@@ -1,5 +1,12 @@
-<h1 align="center">Russel Niño Buno</h1>
-<h3 align="center">BS Computer Science @ UP Cebu </h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=4000&pause=100000&repeat=false&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=RUSSEL+NI%C3%91O+BUNO" />
+</p>
+
+<h3 align="center">BS Computer Science Sophomore @ UP Cebu </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/russel-buno-234055287/" target="_blank">
@@ -10,13 +17,16 @@
 
 ---
 
-### 🚀 About Me
-I like making stuff.
+### About Me?
+I'm a Computer Science sophomore at UP Cebu who spends most of my time building things. Outside of projects, you'll find me crossing off movies on my watchlist, road-tripping with Tamino adn Steve Lacy on the aux, and mastering the art of procrastination. Coding is just another language for stubbornness — a way of saying "I will make this work" until it does. I build things that are unfinished, imperfect, and mine, because the ones worth keeping are usually a little broken before they're good. Somewhere between the bugs and the breakthroughs, that's where I actually become whoever I'm building. *charot yux*
+
+> *"Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness."*
+> — *A Song of Ice and Fire*
 
 
 ---
 
-### 🛠️ Featured Projects
+### Some Featured Projects
 
 | Project | What it does |
 |---|---|
@@ -29,7 +39,7 @@ I like making stuff.
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Languages**
 <p align="center">

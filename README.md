@@ -28,9 +28,9 @@ A Computer Science sophomore at UP Cebu who spends most of my time building thin
 
 ```python
 current = {
-    "learning"  : ["ML forecasting (XGBoost)", "Predictive systems", "Supervity"],
-    "building"  : "SIGLA — digital e-voucher & subsidy disbursement system for the NextGenPH 2026 Innovation Challenge",
-    "goal_2026" : "Hackathons + ML",
+    "learning"  : ["LangChain", "React Native", "IBPAP"],
+    "building"  : ["LIWANAG", "SineSeen"],
+    "goal_2026" : "Hackathons + ML"
 }
 ```
 

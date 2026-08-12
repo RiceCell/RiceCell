@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=4000&pause=100000&repeat=false&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=RUSSEL+NI%C3%91O+BUNO" />
 </p>
 
-<h3 align="center">BS Computer Science Sophomore @ UP Cebu</h3>
+<h3 align="center">BS Computer Science Junior @ UP Cebu</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/russel-buno-234055287/" target="_blank">
@@ -17,7 +17,7 @@
 ---
 
 ### About Me?
-A Computer Science sophomore at UP Cebu who spends most of my time building things. 
+A Computer Science junior at UP Cebu who spends most of my time building things. 
 
 > *"Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness."*
 > — *A Song of Ice and Fire*
@@ -29,7 +29,7 @@ A Computer Science sophomore at UP Cebu who spends most of my time building thin
 ```python
 current = {
     "learning"  : ["LangChain", "React Native", "IBPAP"],
-    "building"  : ["LIWANAG", "SineSeen"],
+    "building"  : ["LIWANAG", "SineSeen", "SugboKlaro"],
     "goal_2026" : "Hackathons + ML"
 }
 ```

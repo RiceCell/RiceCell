@@ -9,6 +9,12 @@
 <h3 align="center">BS Computer Science Junior @ UP Cebu</h3>
 
 <p align="center">
+  <a href="https://russel-buno.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-russel--buno.vercel.app-58A6FF?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/russel-buno-234055287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -17,7 +23,8 @@
 ---
 
 ### About Me?
-A Computer Science junior at UP Cebu who spends most of my time building things. 
+
+A Computer Science junior at UP Cebu who spends most of my time building things.
 
 > *"Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness."*
 > — *A Song of Ice and Fire*

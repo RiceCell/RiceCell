@@ -35,8 +35,8 @@ A Computer Science junior at UP Cebu who spends most of my time building things.
 
 ```python
 current = {
-    "learning"  : ["LangChain", "React Native", "IBPAP"],
-    "building"  : ["LIWANAG", "SineSeen", "SugboKlaro"],
+    "learning"  : ["Eskwelabs, React Native & Flutter"],
+    "building"  : ["PJDSC, FindingDormy 2.0, Eskwelabs Projects (DM, RPA)"],
     "goal_2026" : "Hackathons + ML"
 }
 ```

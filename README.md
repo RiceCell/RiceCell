@@ -3,41 +3,50 @@
 </p>
 
 <p align="center">
-  <a href="https://russel-buno.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-russel--buno.vercel.app-e8b84a?style=for-the-badge&labelColor=0d1117" /></a>
-  <a href="https://www.linkedin.com/in/russel-buno-234055287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://russel-buno.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-russel--buno.vercel.app-ece4d0?style=for-the-badge&labelColor=0c0b09" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/russel-buno-234055287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-ece4d0?style=for-the-badge&logo=linkedin&logoColor=ece4d0&labelColor=0c0b09" alt="LinkedIn" /></a>
 </p>
 
-<br/>
+<p align="center"><sub>✦ &nbsp;─────────────── &nbsp;❖&nbsp; ─────────────── &nbsp;✦</sub></p>
 
-## About Me
+<h2 align="center">About Me</h2>
 
-A Computer Science junior at UP Cebu who spends most of his time building things, and the rest of it watching movies — 450+ in the last four years and counting.
+<p align="center">
+  A Computer Science junior at UP Cebu who spends most of his time building things,<br/>
+  overthinking and watching movies. Feel free to hit me up!
+</p>
 
-> *"Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness."*
-> — *A Song of Ice and Fire*
+<p align="center">
+  <i>“Never forget what you are, for surely the world will not.<br/>
+  Make it your strength. Then it can never be your weakness.”</i><br/>
+  <sub>— A SONG OF ICE AND FIRE —</sub>
+</p>
 
-<br/>
+<p align="center"><sub>✦ &nbsp;─────────────── &nbsp;❖&nbsp; ─────────────── &nbsp;✦</sub></p>
 
-## Currently Working On
+<h2 align="center">Currently Working On</h2>
+
+<div align="center">
 
 | | |
 |---|---|
-| 🛠️ &nbsp;**Building** | PJDSC · FindingDormy 2.0 · Eskwelabs Projects (DM, RPA) |
-| 📖 &nbsp;**Learning** | Eskwelabs · React Native · Flutter |
-| 🎯 &nbsp;**2026 Goal** | Hackathons + ML |
+| **Building** | Project LEPTON &nbsp;·&nbsp; Payroll system for Unity &nbsp;·&nbsp; Sineseen &nbsp;·&nbsp; Eskwelabs Project |
+| **Learning** | Machine learning in focus |
 
-<br/>
+</div>
 
-## Featured Projects
+<p align="center"><sub>✦ &nbsp;─────────────── &nbsp;❖&nbsp; ─────────────── &nbsp;✦</sub></p>
+
+<h2 align="center">Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### [Blind Spot](https://github.com/AngeloManlangit/BlindSpot)
-<sub>DISASTER RESILIENCE · AI</sub>
+<sub><i>Disaster resilience · AI</i></sub>
 
-![](https://img.shields.io/badge/🏆%20Innovation%20Cup%202026-Top%2015%20of%2050-e8b84a?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Innovation%20Cup%202026-Top%2015%20of%2050-ece4d0?style=flat-square&labelColor=0c0b09)
 
 Offline-first, AI-powered platform that predicts localized power and connectivity failures during typhoons — a disaster resilience engine for Cebu City.
 
@@ -45,9 +54,9 @@ Offline-first, AI-powered platform that predicts localized power and connectivit
 <td width="50%" valign="top">
 
 ### [Project CleanUp](https://github.com/raretutal/Project-CleanUp)
-<sub>CIVIC TECH</sub>
+<sub><i>Civic tech</i></sub>
 
-![](https://img.shields.io/badge/🏆%20CMSC%2021%20Finals-4th%20Best%20Project-e8b84a?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/CMSC%2021%20Finals-4th%20Best%20Project-ece4d0?style=flat-square&labelColor=0c0b09)
 
 A waste disposal tracker app, built as the CMSC 21 Finals submission and awarded 4th Best Project overall.
 
@@ -57,9 +66,9 @@ A waste disposal tracker app, built as the CMSC 21 Finals submission and awarded
 <td width="50%" valign="top">
 
 ### [i.skwelai](https://github.com/AngeloManlangit/i-skwel.ai)
-<sub>EDTECH</sub>
+<sub><i>EdTech</i></sub>
 
-![](https://img.shields.io/badge/🎟%20IBPAP%20Hack--It-2025-c9d1d9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/IBPAP%20Hack--It-2025-ece4d0?style=flat-square&labelColor=0c0b09)
 
 Generates educational roadmaps for Cebu schools. Submitted by Team M & Ems for the IBPAP Hack-It Challenge 2025.
 
@@ -67,9 +76,9 @@ Generates educational roadmaps for Cebu schools. Submitted by Team M & Ems for t
 <td width="50%" valign="top">
 
 ### [Crossroads of Us](https://github.com/DareDevilLuc/Game-Jam)
-<sub>GAME · MYSTERY</sub>
+<sub><i>Game · Mystery</i></sub>
 
-![](https://img.shields.io/badge/🎟%20UPCSG%20GameJam-2026-c9d1d9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/UPCSG%20GameJam-2026-ece4d0?style=flat-square&labelColor=0c0b09)
 
 An *Exit 8*–inspired 2D top-down game, made with team "TheWinnerTakesItAllTheLoserStandingSmall."
 
@@ -79,9 +88,9 @@ An *Exit 8*–inspired 2D top-down game, made with team "TheWinnerTakesItAllTheL
 <td width="50%" valign="top">
 
 ### [Fallasee](https://github.com/RiceCell/fallasee)
-<sub>AI · LOGIC</sub>
+<sub><i>AI · Logic</i></sub>
 
-![](https://img.shields.io/badge/Powered%20by-Gemini%202.5%20Flash-c9d1d9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Powered%20by-Gemini%202.5%20Flash-ece4d0?style=flat-square&labelColor=0c0b09)
 
 A logic professor in your pocket. This full-stack web app analyzes arguments for logical fallacies and returns a structured breakdown.
 
@@ -89,9 +98,9 @@ A logic professor in your pocket. This full-stack web app analyzes arguments for
 <td width="50%" valign="top">
 
 ### [HuddleUP](https://github.com/DareDevilLuc/HuddleUP)
-<sub>COLLABORATION · REAL-TIME</sub>
+<sub><i>Collaboration · Real-time</i></sub>
 
-![](https://img.shields.io/badge/Feature-Self--dissolving%20rooms-c9d1d9?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Feature-Self--dissolving%20rooms-ece4d0?style=flat-square&labelColor=0c0b09)
 
 Lightweight, real-time task management. Groups spin up temporary shared rooms, and once every task is done, the room cleans itself up.
 
@@ -99,37 +108,43 @@ Lightweight, real-time task management. Groups spin up temporary shared rooms, a
 </tr>
 </table>
 
-<br/>
+<p align="center"><sub>✦ &nbsp;─────────────── &nbsp;❖&nbsp; ─────────────── &nbsp;✦</sub></p>
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
 
 | | |
 |---|---|
-| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
-| **Frameworks & Runtime** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **Data & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logoColor=black) |
-| **Design** | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/C-0c0b09?style=flat-square&logo=c&logoColor=ece4d0) ![C++](https://img.shields.io/badge/C++-0c0b09?style=flat-square&logo=cplusplus&logoColor=ece4d0) ![Python](https://img.shields.io/badge/Python-0c0b09?style=flat-square&logo=python&logoColor=ece4d0) ![JavaScript](https://img.shields.io/badge/JavaScript-0c0b09?style=flat-square&logo=javascript&logoColor=ece4d0) ![TypeScript](https://img.shields.io/badge/TypeScript-0c0b09?style=flat-square&logo=typescript&logoColor=ece4d0) ![Kotlin](https://img.shields.io/badge/Kotlin-0c0b09?style=flat-square&logo=kotlin&logoColor=ece4d0) ![Haskell](https://img.shields.io/badge/Haskell-0c0b09?style=flat-square&logo=haskell&logoColor=ece4d0) ![R](https://img.shields.io/badge/R-0c0b09?style=flat-square&logo=r&logoColor=ece4d0) ![LaTeX](https://img.shields.io/badge/LaTeX-0c0b09?style=flat-square&logo=latex&logoColor=ece4d0) ![Markdown](https://img.shields.io/badge/Markdown-0c0b09?style=flat-square&logo=markdown&logoColor=ece4d0) |
+| **Frameworks & Runtime** | ![React](https://img.shields.io/badge/React-0c0b09?style=flat-square&logo=react&logoColor=ece4d0) ![Vue.js](https://img.shields.io/badge/Vue.js-0c0b09?style=flat-square&logo=vuedotjs&logoColor=ece4d0) ![Vite](https://img.shields.io/badge/Vite-0c0b09?style=flat-square&logo=vite&logoColor=ece4d0) ![Node.js](https://img.shields.io/badge/Node.js-0c0b09?style=flat-square&logo=nodedotjs&logoColor=ece4d0) ![Vercel](https://img.shields.io/badge/Vercel-0c0b09?style=flat-square&logo=vercel&logoColor=ece4d0) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c0b09?style=flat-square&logo=postgresql&logoColor=ece4d0) ![MySQL](https://img.shields.io/badge/MySQL-0c0b09?style=flat-square&logo=mysql&logoColor=ece4d0) ![SQLite](https://img.shields.io/badge/SQLite-0c0b09?style=flat-square&logo=sqlite&logoColor=ece4d0) ![Supabase](https://img.shields.io/badge/Supabase-0c0b09?style=flat-square&logo=supabase&logoColor=ece4d0) |
+| **Data & ML** | ![Pandas](https://img.shields.io/badge/Pandas-0c0b09?style=flat-square&logo=pandas&logoColor=ece4d0) ![NumPy](https://img.shields.io/badge/NumPy-0c0b09?style=flat-square&logo=numpy&logoColor=ece4d0) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0c0b09?style=flat-square&logo=scikitlearn&logoColor=ece4d0) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0c0b09?style=flat-square) |
+| **Design** | ![Canva](https://img.shields.io/badge/Canva-0c0b09?style=flat-square&logo=canva&logoColor=ece4d0) |
 
-<br/>
+</div>
 
-## GitHub Stats
+<p align="center"><sub>✦ &nbsp;─────────────── &nbsp;❖&nbsp; ─────────────── &nbsp;✦</sub></p>
+
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=RiceCell&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=e8b84a&text_color=c9d1d9&icon_color=e8b84a&border_color=30363d" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RiceCell&layout=compact&bg_color=0d1117&title_color=e8b84a&text_color=c9d1d9&border_color=30363d" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=RiceCell&include_all_commits=true&count_private=true&show_icons=true&bg_color=0c0b09&title_color=ece4d0&text_color=b8b09c&icon_color=ece4d0&border_color=3a3730" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RiceCell&layout=compact&bg_color=0c0b09&title_color=ece4d0&text_color=b8b09c&border_color=3a3730" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RiceCell&background=0D1117&border=30363D&stroke=30363D&ring=E8B84A&fire=E8B84A&currStreakLabel=E8B84A&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com/?user=RiceCell&background=0C0B09&border=3A3730&stroke=3A3730&ring=ECE4D0&fire=ECE4D0&currStreakLabel=ECE4D0&sideLabels=B8B09C&currStreakNum=ECE4D0&sideNums=ECE4D0&dates=7D776A" alt="Contribution streak" />
 </p>
 
-## Activity Graph
+<p align="center"><sub>✦ &nbsp;─────────────── &nbsp;❖&nbsp; ─────────────── &nbsp;✦</sub></p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiceCell&bg_color=0d1117&color=c9d1d9&title_color=e8b84a&line=e8b84a&point=c9d1d9&area=true&area_color=e8b84a&hide_border=false" />
-</p>
+<h2 align="center">Activity Graph</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ece4d0,100:0d1117&height=2" width="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiceCell&bg_color=0c0b09&color=b8b09c&title_color=ece4d0&line=ece4d0&point=ece4d0&area=true&area_color=ece4d0&hide_border=false" alt="Contribution activity graph" />
 </p>
+
+<p align="center"><sub>✦ &nbsp;─────────────── &nbsp;❖&nbsp; ─────────────── &nbsp;✦</sub></p>
+
+<p align="center"><i>Thanks for stopping by.</i></p>

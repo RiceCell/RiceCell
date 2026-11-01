@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <i>“Never forget what you are, for surely the world will not.<br/>
-  Make it your strength. Then it can never be your weakness.”</i><br/>
-  <sub>— A SONG OF ICE AND FIRE —</sub>
+  <i>“You can live whatever you want to live. Be whoever you want to be. <br/>
+  You have time.”</i><br/>
+  <sub>— Calum, Aftersun (2022) —</sub>
 </p>
 
 <p align="center"><sub>✦ &nbsp;─────────────── &nbsp;❖&nbsp; ─────────────── &nbsp;✦</sub></p>

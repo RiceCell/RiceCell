@@ -1,117 +1,135 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" />
+  <img src="./assets/header.svg" width="100%" alt="Russel Niño Buno — BS Computer Science Junior @ UP Cebu" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=26&duration=4000&pause=100000&repeat=false&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=RUSSEL+NI%C3%91O+BUNO" />
+  <a href="https://russel-buno.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐%20Portfolio-russel--buno.vercel.app-e8b84a?style=for-the-badge&labelColor=0d1117" /></a>
+  <a href="https://www.linkedin.com/in/russel-buno-234055287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
 </p>
 
-<h3 align="center">BS Computer Science Junior @ UP Cebu</h3>
+<br/>
 
-<p align="center">
-  <a href="https://russel-buno.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-russel--buno.vercel.app-58A6FF?style=for-the-badge" />
-  </a>
-</p>
+## About Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/russel-buno-234055287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-### About Me?
-
-A Computer Science junior at UP Cebu who spends most of my time building things.
+A Computer Science junior at UP Cebu who spends most of his time building things, and the rest of it watching movies — 450+ in the last four years and counting.
 
 > *"Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness."*
 > — *A Song of Ice and Fire*
 
----
+<br/>
 
-### `> currently.working_on`
+## Currently Working On
 
-```python
-current = {
-    "learning"  : ["Eskwelabs, React Native & Flutter"],
-    "building"  : ["PJDSC, FindingDormy 2.0, Eskwelabs Projects (DM, RPA)"],
-    "goal_2026" : "Hackathons + ML"
-}
-```
-
----
-
-### Some Featured Projects
-
-| Project | What it does |
+| | |
 |---|---|
-| **[Project CleanUp](https://github.com/raretutal/Project-CleanUp)** | Waste disposal tracker app — CMSC 21 Finals submission, awarded **4th Best Project** overall |
-| **[i.skwelai](https://github.com/AngeloManlangit/i-skwel.ai)** | Generates educational roadmaps for Cebu schools — submitted by Team M & Ems for the **IBPAP Hack-It Challenge 2025** |
-| **[Crossroads of Us](https://github.com/DareDevilLuc/Game-Jam)** | An *Exit 8*–inspired 2D top-down game, presented at **UPCSG GameJam 2026** with team "TheWinnerTakesItAllTheLoserStandingSmall" |
-| **[Blind Spot](https://github.com/AngeloManlangit/BlindSpot)** | Offline-first, AI-powered platform predicting localized power & connectivity failures during typhoons — a disaster resilience engine for Cebu City. Presented at **Innovation Cup 2026**, part of the **top 15 of 50 entries** |
-| **[Fallasee](https://github.com/RiceCell/fallasee)** | A full-stack web app that acts as a logic professor in your pocket — analyzes arguments for logical fallacies via the Gemini 2.5 Flash API and returns a structured breakdown |
-| **[HuddleUP](https://github.com/DareDevilLuc/HuddleUP)** | A lightweight, real-time collaborative task management app — groups spin up temporary shared rooms to organize and track tasks together, and once every task in a room is done, the room auto-dissolves to keep things clean and clutter-free |
+| 🛠️ &nbsp;**Building** | PJDSC · FindingDormy 2.0 · Eskwelabs Projects (DM, RPA) |
+| 📖 &nbsp;**Learning** | Eskwelabs · React Native · Flutter |
+| 🎯 &nbsp;**2026 Goal** | Hackathons + ML |
 
----
+<br/>
 
-### Tech Stack
+## Featured Projects
 
-**Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Blind Spot](https://github.com/AngeloManlangit/BlindSpot)
+<sub>DISASTER RESILIENCE · AI</sub>
+
+![](https://img.shields.io/badge/🏆%20Innovation%20Cup%202026-Top%2015%20of%2050-e8b84a?style=flat-square&labelColor=0d1117)
+
+Offline-first, AI-powered platform that predicts localized power and connectivity failures during typhoons — a disaster resilience engine for Cebu City.
+
+</td>
+<td width="50%" valign="top">
+
+### [Project CleanUp](https://github.com/raretutal/Project-CleanUp)
+<sub>CIVIC TECH</sub>
+
+![](https://img.shields.io/badge/🏆%20CMSC%2021%20Finals-4th%20Best%20Project-e8b84a?style=flat-square&labelColor=0d1117)
+
+A waste disposal tracker app, built as the CMSC 21 Finals submission and awarded 4th Best Project overall.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [i.skwelai](https://github.com/AngeloManlangit/i-skwel.ai)
+<sub>EDTECH</sub>
+
+![](https://img.shields.io/badge/🎟%20IBPAP%20Hack--It-2025-c9d1d9?style=flat-square&labelColor=0d1117)
+
+Generates educational roadmaps for Cebu schools. Submitted by Team M & Ems for the IBPAP Hack-It Challenge 2025.
+
+</td>
+<td width="50%" valign="top">
+
+### [Crossroads of Us](https://github.com/DareDevilLuc/Game-Jam)
+<sub>GAME · MYSTERY</sub>
+
+![](https://img.shields.io/badge/🎟%20UPCSG%20GameJam-2026-c9d1d9?style=flat-square&labelColor=0d1117)
+
+An *Exit 8*–inspired 2D top-down game, made with team "TheWinnerTakesItAllTheLoserStandingSmall."
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Fallasee](https://github.com/RiceCell/fallasee)
+<sub>AI · LOGIC</sub>
+
+![](https://img.shields.io/badge/Powered%20by-Gemini%202.5%20Flash-c9d1d9?style=flat-square&labelColor=0d1117)
+
+A logic professor in your pocket. This full-stack web app analyzes arguments for logical fallacies and returns a structured breakdown.
+
+</td>
+<td width="50%" valign="top">
+
+### [HuddleUP](https://github.com/DareDevilLuc/HuddleUP)
+<sub>COLLABORATION · REAL-TIME</sub>
+
+![](https://img.shields.io/badge/Feature-Self--dissolving%20rooms-c9d1d9?style=flat-square&labelColor=0d1117)
+
+Lightweight, real-time task management. Groups spin up temporary shared rooms, and once every task is done, the room cleans itself up.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+| | |
+|---|---|
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
+| **Frameworks & Runtime** | ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Data & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logoColor=black) |
+| **Design** | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+
+<br/>
+
+## GitHub Stats
+
 <p align="center">
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=RiceCell&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=e8b84a&text_color=c9d1d9&icon_color=e8b84a&border_color=30363d" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RiceCell&layout=compact&bg_color=0d1117&title_color=e8b84a&text_color=c9d1d9&border_color=30363d" />
 </p>
 
-**Frameworks & Runtime**
 <p align="center">
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+  <img src="https://streak-stats.demolab.com/?user=RiceCell&background=0D1117&border=30363D&stroke=30363D&ring=E8B84A&fire=E8B84A&currStreakLabel=E8B84A&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 </p>
 
-**Databases**
-<p align="center">
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</p>
-
-**Data & ML**
-<p align="center">
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-</p>
-
-**Design**
-<p align="center">
-
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-</p>
-
----
-
-### 📊 GitHub Stats
+## Activity Graph
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=RiceCell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RiceCell&theme=tokyonight&hide_border=false&layout=compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiceCell&bg_color=0d1117&color=c9d1d9&title_color=e8b84a&line=e8b84a&point=c9d1d9&area=true&area_color=e8b84a&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RiceCell&theme=tokyonight&hide_border=false" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:ece4d0,100:0d1117&height=2" width="70%" />
 </p>
-
----
-
-### `> activity.graph`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RiceCell&theme=tokyo-night&hide_border=false&area=true" />
-</p>
-
----
